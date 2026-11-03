@@ -110,15 +110,22 @@ The analysis also highlights declining margins across several products over the 
 
 ## Business Recommendations
 
-Based on the gross margin analysis:
+Based on the Q3 2025 gross margin analysis, the following pricing interventions are recommended:
 
-- **Minimalist Keychain, Chemex Filters, and Logo Hoodie:** Review pricing for substantial increases or consider discontinuation due to their significantly low margins.
-- **Gooseneck Electric Kettle:** Increase pricing to improve its gross margin above the 30% threshold.
-- **Branded Ceramic Mug and Pour-Over Starter Kit:** Review pricing and costs to restore margins above the target threshold.
+| Product | Gross Margin | Recommendation |
+|---|---:|---|
+| Minimalist Keychain | 11.98% | Significant price increase or discontinuation |
+| Chemex Filters (100 pack) | 12.00% | Significant price increase or discontinuation |
+| Logo Hoodie (Black) | 12.03% | Significant price increase or discontinuation |
+| Gooseneck Electric Kettle | 25.52% | Increase selling price to restore margin above 30% |
+| Branded Ceramic Mug (Large) | 27.99% | Review pricing and costs |
+| Pour-Over Starter Kit | 28.97% | Review pricing and costs |
 
-These recommendations aim to improve product-level profitability while helping management make more informed pricing and portfolio decisions.
+**Key Recommendation:**
 
-![Pricing Recommendations](Images/pricing_recommendations.png)
+Prioritise pricing adjustments for the three products with the lowest gross margins. For the remaining products, review selling prices and costs to bring their gross margins above the 30% target.
+
+For products with persistently weak profitability, management should also evaluate opportunities to reduce sourcing or production costs before considering discontinuation.
 
 ## Project Files
 
