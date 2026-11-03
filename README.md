@@ -131,10 +131,10 @@ For products with persistently weak profitability, management should also evalua
 
 | Folder / File | Description |
 |---|---|
-| `SQL/` | SQL queries used for data preparation and analysis |
-| `PowerBI/` | Interactive Power BI dashboard |
-| `Images/` | Dashboard screenshots and project visuals |
-| `Data/` | Source datasets, if redistribution is permitted |
+| [Data/](Data/) | Five source CSV datasets containing order, customer, and product information |
+| [SQL/](SQL/) | SQL query for data consolidation, cleaning, transformation, and analysis |
+| [PowerBI/](PowerBI/) | Interactive Power BI dashboard (`coffee_sales.pbix`) |
+| [Images/](Images/) | Dashboard screenshots and project visuals |
 
 ## How to View the Project
 
