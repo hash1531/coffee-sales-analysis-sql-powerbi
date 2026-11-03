@@ -150,8 +150,11 @@ For products with persistently weak profitability, management should also evalua
 
 **Harsh Kumar**
 
-[GitHub Profile](https://github.com/hash1531)
+- **GitHub:** [hash1531](https://github.com/hash1531)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/harsh-kumar-921246287/)
+- **Email:** [harshdps02@gmail.com](mailto:harshdps02@gmail.com)
 
 ---
 
 *This project demonstrates an end-to-end data analytics workflow, from SQL-based data preparation to interactive Power BI reporting and business-oriented pricing recommendations.*
+---
