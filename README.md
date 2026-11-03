@@ -46,7 +46,7 @@ The project uses five source tables:
 
 The three yearly order tables were consolidated into a unified dataset for analysis.
 
-*Note: Dataset files are not included in this repository at present.*
+The source data is provided in CSV format and consists of three yearly order tables, a customer table, and a product table.
 
 ## SQL Analysis & Data Preparation
 
