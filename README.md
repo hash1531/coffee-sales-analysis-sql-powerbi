@@ -139,8 +139,9 @@ For products with persistently weak profitability, management should also evalua
 ## How to View the Project
 
 1. Browse the dashboard screenshots in the `Images/` folder.
-2. Open the `.pbix` file in Microsoft Power BI Desktop to explore the interactive dashboard.
-3. Review the SQL script in the `SQL/` folder to understand the data preparation process.
+2. Download `PowerBI/coffee_sales.pbix` and open it using Microsoft Power BI Desktop to explore the interactive dashboard.
+3. Review the SQL query in the `SQL/` folder to understand the data preparation and analysis process.
+4. Explore the CSV datasets in the `Data/` folder.
 
 **Requirements:** Microsoft Power BI Desktop and Microsoft SQL Server (for reproducing the SQL workflow).
 
