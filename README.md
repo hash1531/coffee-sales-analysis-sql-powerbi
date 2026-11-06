@@ -1,6 +1,6 @@
 # Coffee Sales Analysis & Pricing Strategy
 
-An end-to-end data analytics project using **Microsoft SQL Server and Power BI** to analyse three years of coffee retail sales data (2023–2025), evaluate product profitability, identify declining gross margins, and develop data-driven pricing recommendations.
+An end-to-end data analytics project using **SQL and Power BI** to analyse three years of coffee retail sales data (2023–2025), evaluate product profitability, identify declining gross margins, and develop data-driven pricing recommendations.
 
 ---
 
